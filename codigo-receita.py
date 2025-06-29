@@ -1,1 +1,1 @@
-f = open('receita', 'r')
+f = os.walk('receita.txt', 'r')
